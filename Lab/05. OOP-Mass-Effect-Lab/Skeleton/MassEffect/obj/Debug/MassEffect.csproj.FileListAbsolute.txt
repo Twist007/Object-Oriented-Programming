@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Lab\05. OOP-Mass-Effect-Lab\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Lab\05. OOP-Mass-Effect-Lab\Skeleton\MassEffect\bin\Debug\MassEffect.exe
+E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Lab\05. OOP-Mass-Effect-Lab\Skeleton\MassEffect\bin\Debug\MassEffect.pdb
+E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Lab\05. OOP-Mass-Effect-Lab\Skeleton\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Lab\05. OOP-Mass-Effect-Lab\Skeleton\MassEffect\obj\Debug\MassEffect.exe
+E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Lab\05. OOP-Mass-Effect-Lab\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
