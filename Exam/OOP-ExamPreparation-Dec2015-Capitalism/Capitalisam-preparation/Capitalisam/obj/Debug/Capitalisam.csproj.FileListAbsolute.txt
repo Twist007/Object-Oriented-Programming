@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Object-Oriented-Programming\Exam\OOP-ExamPreparation-Dec2015-Capitalism\Capitalisam-preparation\Capitalisam\bin\Debug\Capitalisam.exe.config
+E:\SoftUni\1.Fundamental Level\Object-Oriented-Programming\Exam\OOP-ExamPreparation-Dec2015-Capitalism\Capitalisam-preparation\Capitalisam\bin\Debug\Capitalisam.exe
+E:\SoftUni\1.Fundamental Level\Object-Oriented-Programming\Exam\OOP-ExamPreparation-Dec2015-Capitalism\Capitalisam-preparation\Capitalisam\bin\Debug\Capitalisam.pdb
+E:\SoftUni\1.Fundamental Level\Object-Oriented-Programming\Exam\OOP-ExamPreparation-Dec2015-Capitalism\Capitalisam-preparation\Capitalisam\obj\Debug\Capitalisam.exe
+E:\SoftUni\1.Fundamental Level\Object-Oriented-Programming\Exam\OOP-ExamPreparation-Dec2015-Capitalism\Capitalisam-preparation\Capitalisam\obj\Debug\Capitalisam.pdb
+E:\SoftUni\1.Fundamental Level\Object-Oriented-Programming\Exam\OOP-ExamPreparation-Dec2015-Capitalism\Capitalisam-preparation\Capitalisam\obj\Debug\Capitalisam.csprojResolveAssemblyReference.cache
