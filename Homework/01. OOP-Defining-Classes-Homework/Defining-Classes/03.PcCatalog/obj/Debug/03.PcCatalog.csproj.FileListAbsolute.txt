@@ -1,6 +1,0 @@
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\03.PcCatalog\bin\Debug\03.PcCatalog.exe.config
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\03.PcCatalog\bin\Debug\03.PcCatalog.exe
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\03.PcCatalog\bin\Debug\03.PcCatalog.pdb
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\03.PcCatalog\obj\Debug\03.PcCatalog.csprojResolveAssemblyReference.cache
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\03.PcCatalog\obj\Debug\03.PcCatalog.exe
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\03.PcCatalog\obj\Debug\03.PcCatalog.pdb

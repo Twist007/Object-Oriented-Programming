@@ -1,6 +1,0 @@
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\Defining-Classes\bin\Debug\Defining-Classes.exe.config
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\Defining-Classes\bin\Debug\Defining-Classes.exe
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\Defining-Classes\bin\Debug\Defining-Classes.pdb
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\Defining-Classes\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\Defining-Classes\obj\Debug\Defining-Classes.exe
-E:\SoftUni\1.Fundamental Level\Object-Oriented Programming\Homework\01. OOP-Defining-Classes-Homework\Defining-Classes\Defining-Classes\obj\Debug\Defining-Classes.pdb
