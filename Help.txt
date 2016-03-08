@@ -1,0 +1,27 @@
+class-> inherited -> class
+class-> implement -> interfaces
+interfaces-> extend -> interfaces
+>>
+sompting.sompting-> geter
+sompting= new sompting -> seter
+>>
+public string FirstName
+        {
+            get { return this.firstName; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("First name cannot be empty.");
+                }
+                this.firstName = value;
+            }
+<<
+ private IList<Employee> employees; 
+
+        public Manager(uint id, string firstName, string lastName, decimal salary, DepartmanType departman) 
+            : base(id, firstName, lastName, salary, departman)
+        {
+            this.employees=new List<Employee>();
+        }
+>>		
